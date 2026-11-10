@@ -1,0 +1,18 @@
+{
+  "sky": "#0b0a1f",
+  "sky_glow": "#1d1840",
+  "city": "#241f45",
+  "city_window": "#8a7ad6",
+  "ground": "#3a3550",
+  "ground_edge": "#6a6490",
+  "blue": "#2de2e6",
+  "pink": "#ff3fa4",
+  "player": "#ffd23f",
+  "drone": "#e8401c",
+  "dropoff": "#7cff4f",
+  "text": "#f4f1ff",
+  "text_dim": "#a39fc4",
+  "hud_bg": "#000000",
+  "banner": "#120d2b",
+  "hint": "#d6ccff"
+}

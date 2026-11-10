@@ -1,0 +1,25 @@
+{
+  "title": "Night Shift",
+  "intro": [
+    "Last package of the night. Rooftops only.",
+    "Drop it off and your shift is finally over."
+  ],
+  "hints": [
+    "ARROWS or A/D to run. SPACE, W or UP to jump.",
+    "Hold jump to leap higher. Tap it for a hop.",
+    "SHIFT flips the grid: blue or pink goes solid.",
+    "Ghost platforms won't hold you. Flip first!",
+    "Sticky Keys popup? Press X to flip instead.",
+    "Security drone ahead. It doesn't sign for parcels."
+  ],
+  "levelNames": ["Flip", "Mid-air", "Patrol"],
+  "levelHints": [
+    "Ghost tile? Press SHIFT or X to make it solid.",
+    "Jump, then flip at the top. Not before!",
+    "That drone's too high to jump. Time your run."
+  ],
+  "delivered": "Delivered {n}/3",
+  "win": "All 3 drops signed for. Clock out! R to replay.",
+  "lose": "Wrecked. The package is fine, though. Press R.",
+  "npcs": {}
+}
