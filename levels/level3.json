@@ -1,0 +1,31 @@
+{
+  "name": "Patrol",
+  "tileSize": 32,
+  "rows": [
+    "................................................",
+    "................................................",
+    "................................................",
+    "................................................",
+    "................................................",
+    "...................#############................",
+    "...................#############................",
+    "...................#############................",
+    "...................#############................",
+    "...................#############................",
+    "...................#############................",
+    ".........................E......................",
+    "..P..........................................G..",
+    "########kkkkk#######bbb.kkk..bbb################",
+    "########.....#######............################"
+  ],
+  "legend": {
+    "#": "rooftop (always solid)",
+    ".": "empty",
+    "b": "blue neon platform (solid at start)",
+    "k": "pink neon platform (solid after a swap)",
+    "P": "player start (exactly one)",
+    "E": "drone (patrols 3 tiles each way, ignores tiles)",
+    "G": "drop-off (at least one)"
+  },
+  "notes": "A pink-bridge warm-up swap, then a low tunnel (roof 6 tiles thick, can't be climbed) whose floor goes blue, pink, blue with 1- and 2-tile pits under a head-height drone: wait in the safe mouth, swap, and hop each pit while the drone flies away."
+}
